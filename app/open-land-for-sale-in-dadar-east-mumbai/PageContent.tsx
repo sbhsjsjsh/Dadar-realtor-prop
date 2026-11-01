@@ -119,7 +119,7 @@ export default function DadarLandPage() {
                 className="relative aspect-video overflow-hidden rounded-2xl shadow-2xl lg:aspect-square"
               >
                 <Image 
-                  src="/src/assets/images/hero_dadar_land_1793217109560.jpg"
+                  src="/images/mumbai_land_plot_skyline_1793532714828.jpg"
                   alt="Open land plot in Dadar East Mumbai"
                   fill
                   className="object-cover"

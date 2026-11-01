@@ -122,7 +122,7 @@ export default function DahisarLandPage() {
                 className="relative aspect-video overflow-hidden rounded-2xl shadow-2xl lg:aspect-square"
               >
                 <Image 
-                  src="/src/assets/images/mumbai_skyline_hero_1793217321478.jpg"
+                  src="/images/luxury_mumbai_apartment_exterior_1793532700061.jpg"
                   alt="Land for apartment construction Dahisar Mumbai"
                   fill
                   className="object-cover"

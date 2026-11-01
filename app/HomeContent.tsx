@@ -121,8 +121,8 @@ export default function HomeContent() {
                 className="relative aspect-video overflow-hidden rounded-2xl shadow-2xl lg:aspect-square"
               >
                 <Image 
-                  src="/src/assets/images/mumbai_skyline_hero_1793217321478.jpg"
-                  alt="Mumbai Skyline"
+                  src="/images/luxury_mumbai_apartment_exterior_1793532700061.jpg"
+                  alt="Luxury Apartment in Mumbai"
                   fill
                   className="object-cover"
                   priority
@@ -272,8 +272,8 @@ export default function HomeContent() {
               </div>
               <div className="relative aspect-video overflow-hidden rounded-2xl bg-slate-100">
                 <Image 
-                  src="/src/assets/images/hero_dadar_land_1793217109560.jpg"
-                  alt="Verified Plot"
+                  src="/images/mumbai_land_plot_skyline_1793532714828.jpg"
+                  alt="Verified Plot in Mumbai"
                   fill
                   className="object-cover"
                   referrerPolicy="no-referrer"

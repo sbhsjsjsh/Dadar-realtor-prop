@@ -120,7 +120,7 @@ export default function DadarWestPage() {
                 className="relative aspect-video overflow-hidden rounded-2xl shadow-2xl lg:aspect-square"
               >
                 <Image 
-                  src="/src/assets/images/mumbai_skyline_hero_1793217321478.jpg"
+                  src="/images/mumbai_land_plot_skyline_1793532714828.jpg"
                   alt="Property plot near Shivaji Park Dadar West"
                   fill
                   className="object-cover"

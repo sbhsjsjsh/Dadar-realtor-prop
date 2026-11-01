@@ -165,7 +165,7 @@ export default function WhyBuyDadarPage() {
                 className="relative aspect-video overflow-hidden rounded-2xl shadow-2xl lg:aspect-square"
               >
                 <Image 
-                  src="/src/assets/images/mumbai_skyline_hero_1793217321478.jpg"
+                  src="/images/luxury_mumbai_apartment_exterior_1793532700061.jpg"
                   alt="Flats in Dadar Mumbai near Dadar railway station"
                   fill
                   className="object-cover"
@@ -384,7 +384,7 @@ export default function WhyBuyDadarPage() {
               </div>
               <div className="relative aspect-video rounded-3xl overflow-hidden shadow-2xl">
                 <Image 
-                  src="/src/assets/images/hero_dadar_land_1793217109560.jpg"
+                  src="/images/mumbai_land_plot_skyline_1793532714828.jpg"
                   alt="Schools and lifestyle in Dadar Mumbai"
                   fill
                   className="object-cover"

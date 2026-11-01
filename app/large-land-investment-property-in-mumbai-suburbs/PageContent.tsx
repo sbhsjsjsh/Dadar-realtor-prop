@@ -122,7 +122,7 @@ export default function MumbaiSuburbsLandPage() {
                 className="relative aspect-video overflow-hidden rounded-2xl shadow-2xl lg:aspect-square"
               >
                 <Image 
-                  src="/src/assets/images/mumbai_skyline_hero_1793217321478.jpg"
+                  src="/images/mumbai_suburbs_industrial_land_1793532728199.jpg"
                   alt="Large land investment in Mumbai suburbs"
                   fill
                   className="object-cover"
