@@ -11,6 +11,9 @@ export const metadata: Metadata = {
     type: 'website',
     url: '/open-land-for-sale-in-dadar-east-mumbai',
   },
+  alternates: {
+    canonical: '/open-land-for-sale-in-dadar-east-mumbai',
+  },
   twitter: {
     card: 'summary_large_image',
     title: 'Open Land for Sale in Dadar East, Mumbai',

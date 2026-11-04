@@ -11,6 +11,9 @@ export const metadata: Metadata = {
     type: 'website',
     url: '/land-for-apartment-construction-in-dahisar',
   },
+  alternates: {
+    canonical: '/land-for-apartment-construction-in-dahisar',
+  },
   twitter: {
     card: 'summary_large_image',
     title: 'Land for Apartment Construction in Dahisar | Delicacy Property',

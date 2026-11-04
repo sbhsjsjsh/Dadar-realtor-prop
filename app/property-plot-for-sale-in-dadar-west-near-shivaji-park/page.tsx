@@ -11,6 +11,9 @@ export const metadata: Metadata = {
     type: 'website',
     url: '/property-plot-for-sale-in-dadar-west-near-shivaji-park',
   },
+  alternates: {
+    canonical: '/property-plot-for-sale-in-dadar-west-near-shivaji-park',
+  },
   twitter: {
     card: 'summary_large_image',
     title: 'Property Plot for Sale in Dadar West Near Shivaji Park',

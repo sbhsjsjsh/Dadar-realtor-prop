@@ -11,6 +11,9 @@ export const metadata: Metadata = {
     type: 'website',
     url: '/',
   },
+  alternates: {
+    canonical: '/',
+  },
   twitter: {
     card: 'summary_large_image',
     title: 'Open Land in Dadar East, Mumbai | Verified Plots for Sale & Investment',

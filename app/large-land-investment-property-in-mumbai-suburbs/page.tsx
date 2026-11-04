@@ -11,6 +11,9 @@ export const metadata: Metadata = {
     type: 'website',
     url: '/large-land-investment-property-in-mumbai-suburbs',
   },
+  alternates: {
+    canonical: '/large-land-investment-property-in-mumbai-suburbs',
+  },
   twitter: {
     card: 'summary_large_image',
     title: 'Large Land Investment Property in Mumbai Suburbs',

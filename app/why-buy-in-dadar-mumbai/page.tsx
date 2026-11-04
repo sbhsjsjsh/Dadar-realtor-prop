@@ -11,6 +11,9 @@ export const metadata: Metadata = {
     type: 'article',
     url: '/why-buy-in-dadar-mumbai',
   },
+  alternates: {
+    canonical: '/why-buy-in-dadar-mumbai',
+  },
   twitter: {
     card: 'summary_large_image',
     title: 'Why Buy in Dadar? Price Trends, Metro & Schools 2026',
