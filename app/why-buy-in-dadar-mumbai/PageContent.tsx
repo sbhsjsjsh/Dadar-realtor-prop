@@ -64,7 +64,7 @@ export default function WhyBuyDadarPage() {
           "name": "Dadar Realtor",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://ais-dev-rei7gqygm6tmimzonqz26y-728728199311.asia-southeast1.run.app/icon.jpg"
+            "url": "https://dadar-realtor-prop.vercel.app/icon.jpg"
           }
         },
         "datePublished": "2026-11-01"
@@ -73,7 +73,7 @@ export default function WhyBuyDadarPage() {
         "@type": "LocalBusiness",
         "name": "Dadar Realtor",
         "telephone": "+91 9004810239",
-        "url": "https://ais-dev-rei7gqygm6tmimzonqz26y-728728199311.asia-southeast1.run.app",
+        "url": "https://dadar-realtor-prop.vercel.app",
         "address": {
           "@type": "PostalAddress",
           "addressLocality": "Dadar",

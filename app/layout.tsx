@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     title: 'Dadar Realtor | Prime Land & Plots in Dadar East, Mumbai',
     description: 'Dadar Realtor helps you find verified, clear-title open land and plots in Dadar East, Mumbai.',
   },
-  metadataBase: new URL(process.env.APP_URL || 'https://dadarrealtor.com'),
+  metadataBase: new URL(process.env.APP_URL || 'https://dadar-realtor-prop.vercel.app'),
   alternates: {
     canonical: '/',
   },

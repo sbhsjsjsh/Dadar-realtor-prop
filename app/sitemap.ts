@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = process.env.APP_URL || 'https://dadarrealtor.com'
+  const baseUrl = process.env.APP_URL || 'https://dadar-realtor-prop.vercel.app'
   
   // List of all pages in the application
   // In a more complex app, this could fetch from a CMS or database
