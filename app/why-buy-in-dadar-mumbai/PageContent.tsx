@@ -55,6 +55,7 @@ export default function WhyBuyDadarPage() {
         "@type": "Article",
         "headline": "Why Buy in Dadar, Mumbai: Price Trends, Connectivity & Schools (2026 Guide)",
         "description": "Planning to buy flats in Dadar? Check price trends, metro connectivity, top schools & who should invest. Call 9004810239 for a free site visit.",
+        "image": "https://dadar-realtor-prop.vercel.app/images/luxury_mumbai_apartment_exterior_1793532700061.jpg",
         "author": {
           "@type": "Organization",
           "name": "Dadar Realtor"
@@ -67,19 +68,67 @@ export default function WhyBuyDadarPage() {
             "url": "https://dadar-realtor-prop.vercel.app/icon.jpg"
           }
         },
-        "datePublished": "2026-11-01"
+        "datePublished": "2026-11-01",
+        "dateModified": "2026-11-05"
       },
       {
         "@type": "LocalBusiness",
         "name": "Dadar Realtor",
         "telephone": "+91 9004810239",
         "url": "https://dadar-realtor-prop.vercel.app",
+        "logo": "https://dadar-realtor-prop.vercel.app/icon.jpg",
         "address": {
           "@type": "PostalAddress",
           "addressLocality": "Dadar",
           "addressRegion": "Mumbai",
           "addressCountry": "IN"
         }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://dadar-realtor-prop.vercel.app"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Why Buy in Dadar (2026 Guide)",
+            "item": "https://dadar-realtor-prop.vercel.app/why-buy-in-dadar-mumbai"
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Is Dadar a good place to invest in real estate?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. Central location, metro connectivity and limited land supply make Dadar one of the strongest investment locations in Mumbai."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is the average price of a 2 BHK flat in Dadar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A 2 BHK in Dadar typically costs between ₹2.8 crore and ₹5 crore, depending on the area, project and amenities."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Are there good schools in Dadar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. Balmohan Vidyamandir, IES Modern English School and several reputed schools and colleges are in and around Dadar."
+            }
+          }
+        ]
       }
     ]
   };

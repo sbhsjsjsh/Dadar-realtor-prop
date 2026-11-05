@@ -230,6 +230,10 @@ export default function HomeContent() {
                 <div className="h-2 w-2 rounded-full bg-blue-500" />
                 <span className="font-medium">Open Land in Dadar East</span>
               </Link>
+              <Link href="/why-buy-in-dadar-mumbai" className="flex items-center gap-3 rounded-xl bg-blue-600/10 p-6 border border-blue-600/20 hover:bg-blue-600/20 transition-colors">
+                <div className="h-2 w-2 rounded-full bg-blue-600" />
+                <span className="font-bold text-blue-900">Why Buy in Dadar? (2026 Guide)</span>
+              </Link>
               {[
                 "Plots in Dadar West",
                 "Land in Wadala and Parel",
